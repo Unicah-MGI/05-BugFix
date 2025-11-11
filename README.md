@@ -51,4 +51,4 @@ Todo ello con el fin de **fomentar la lealtad del cliente** y **aumentar las ven
 ## Tecnologías Utilizadas 🧰
 
 ```text
-• PostgreSQL
+• PostgreSQL / supabase
