@@ -53,11 +53,15 @@ Todo ello con el fin de **fomentar la lealtad del cliente** y **aumentar las ven
 ```text
 • PostgreSQL / supabase
 
-## 📝 Descripción del Tablero
+---
 
-Este tablero se utiliza para organizar y dar seguimiento a todas las tareas necesarias para desarrollar el **CRM de la perfumería**. Aquí se gestionan las actividades relacionadas con el diseño, creación, integración y pruebas del sistema encargado de administrar la información de los clientes, su historial de compras y sus preferencias aromáticas.
+## **Descripción del Tablero** 📝
 
-El propósito del tablero es mantener un control claro del progreso del proyecto, asignar responsabilidades, priorizar tareas y asegurar que cada etapa del desarrollo del CRM se complete de manera eficiente y ordenada.
+Este tablero se utiliza para organizar y dar seguimiento a todas las tareas necesarias para desarrollar el **CRM de la perfumería**. Aquí se gestionan las actividades relacionadas con el diseño, 
+creación, integración y pruebas del sistema encargado de administrar la información de los clientes, su historial de compras y sus preferencias aromáticas.
+
+El propósito del tablero es mantener un control claro del progreso del proyecto, asignar responsabilidades, priorizar tareas 
+y asegurar que cada etapa del desarrollo del CRM se complete de manera eficiente y ordenada.
 
 https://trello.com/b/8WZwL4tz/05-bugfixers
 
