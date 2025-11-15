@@ -27,7 +27,7 @@ INSERT INTO public.profiles (
   created_at,
   updated_at
 ) VALUES (
-  'PASTE_USER_UUID_HERE'::uuid,  -- Replace this with actual user UUID
+  '26c0accf-4568-43fa-94ee-32adaee46719'::uuid,  -- Replace this with actual user UUID
   'Admin Tienda Perfumes',
   NULL,
   NOW(),
